@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/React-tuts/static/css/main.bc19cec2.chunk.css",
-    "main.js": "/React-tuts/static/js/main.95a31ffd.chunk.js",
-    "main.js.map": "/React-tuts/static/js/main.95a31ffd.chunk.js.map",
-    "runtime-main.js": "/React-tuts/static/js/runtime-main.8dcfdefd.js",
-    "runtime-main.js.map": "/React-tuts/static/js/runtime-main.8dcfdefd.js.map",
-    "static/js/2.d1aa0218.chunk.js": "/React-tuts/static/js/2.d1aa0218.chunk.js",
-    "static/js/2.d1aa0218.chunk.js.map": "/React-tuts/static/js/2.d1aa0218.chunk.js.map",
-    "static/js/3.7d3fcefe.chunk.js": "/React-tuts/static/js/3.7d3fcefe.chunk.js",
-    "static/js/3.7d3fcefe.chunk.js.map": "/React-tuts/static/js/3.7d3fcefe.chunk.js.map",
-    "index.html": "/React-tuts/index.html",
-    "static/css/main.bc19cec2.chunk.css.map": "/React-tuts/static/css/main.bc19cec2.chunk.css.map",
-    "static/js/2.d1aa0218.chunk.js.LICENSE.txt": "/React-tuts/static/js/2.d1aa0218.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/React-tuts/static/media/logo.6ce24c58.svg"
+    "main.css": "/React-Webisite-1/static/css/main.63043a35.chunk.css",
+    "main.js": "/React-Webisite-1/static/js/main.42969987.chunk.js",
+    "main.js.map": "/React-Webisite-1/static/js/main.42969987.chunk.js.map",
+    "runtime-main.js": "/React-Webisite-1/static/js/runtime-main.cbad519d.js",
+    "runtime-main.js.map": "/React-Webisite-1/static/js/runtime-main.cbad519d.js.map",
+    "static/js/2.21251b1d.chunk.js": "/React-Webisite-1/static/js/2.21251b1d.chunk.js",
+    "static/js/2.21251b1d.chunk.js.map": "/React-Webisite-1/static/js/2.21251b1d.chunk.js.map",
+    "static/js/3.79356858.chunk.js": "/React-Webisite-1/static/js/3.79356858.chunk.js",
+    "static/js/3.79356858.chunk.js.map": "/React-Webisite-1/static/js/3.79356858.chunk.js.map",
+    "index.html": "/React-Webisite-1/index.html",
+    "static/css/main.63043a35.chunk.css.map": "/React-Webisite-1/static/css/main.63043a35.chunk.css.map",
+    "static/js/2.21251b1d.chunk.js.LICENSE.txt": "/React-Webisite-1/static/js/2.21251b1d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8dcfdefd.js",
-    "static/js/2.d1aa0218.chunk.js",
-    "static/css/main.bc19cec2.chunk.css",
-    "static/js/main.95a31ffd.chunk.js"
+    "static/js/runtime-main.cbad519d.js",
+    "static/js/2.21251b1d.chunk.js",
+    "static/css/main.63043a35.chunk.css",
+    "static/js/main.42969987.chunk.js"
   ]
 }
